@@ -1,9 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
+import PricingForm from './PricingForm';
+import Premium from './PricingPremium';
+import Ultimate from './PricingUltimate';
 import './App.css';
+import './Pricing.css';
 
 function App() {
-	return <div className="App">Hi There</div>;
+	return (
+		<div className="App pricing-wrapper clearfix">
+			<PricingForm />
+			<Premium />
+			<Ultimate />
+		</div>
+	);
 }
 
 export default App;
