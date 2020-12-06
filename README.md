@@ -1,5 +1,4 @@
-Demo: 
-<img src="https://firebasestorage.googleapis.com/v0/b/image-gallery-5d444.appspot.com/o/Capture.PNG?alt=media&token=7621e163-c573-4af8-83ab-28fd1936da2c" />
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
