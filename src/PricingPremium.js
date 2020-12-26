@@ -34,7 +34,7 @@ const PricingPremium = () => {
 					<p>
 						$100<sup>/ month</sup>
 					</p>
-					<a href="#" className="pricing-action">
+					<a href="" className="pricing-action">
 						Buy
 					</a>
 				</div>
