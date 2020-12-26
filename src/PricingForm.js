@@ -37,7 +37,7 @@ const PricingForm = () => {
 					<p>
 						$60<sup>/ month</sup>
 					</p>
-					<a href="#" className="pricing-action">
+					<a href="" className="pricing-action">
 						Buy
 					</a>
 				</div>
